@@ -20,6 +20,16 @@ Proyek pengembangan video game yang dibangun menggunakan **Unity Engine** dan ba
 
 ---
 
+## 🤖 Rencana Integrasi AI (OpenAI API)
+Proyek ini sedang dalam tahap perancangan untuk mengintegrasikan model AI generatif ke dalam alur gameplay:
+- [ ] **Dynamic NPC System:** Menggunakan OpenAI API untuk dialog karakter non-pemain yang adaptif terhadap progres pemain.
+- [ ] **Procedural Lore Generation:** Pembuatan latar belakang cerita dan petunjuk misi (*clue items*) secara dinamis.
+- [ ] **AI-Driven Logic Controller:** Integrasi respon perilaku NPC berbasis penalaran agen cerdas.
+
+
+---
+
+
 ## 🎮 Kontrol Permainan (Default)
 | Aksi | Tombol Keyboard |
 | :--- | :--- |
